@@ -1,0 +1,117 @@
+{
+  "schemaVersion": 1,
+  "directions": [
+    {
+      "label": "000",
+      "expected": "up",
+      "observed": "鼻尖升至脸上部，浅色下颌展开，两眼随仰头上抬，正面躯干保持固定。",
+      "verdict": "pass",
+      "evidence": "鼻尖升至脸上部，浅色下颌展开，两眼随仰头上抬，正面躯干保持固定。"
+    },
+    {
+      "label": "022.5",
+      "expected": "up-right",
+      "observed": "鼻尖向右上偏移，口鼻下方仍展开，眼睛随头部朝右上。",
+      "verdict": "pass",
+      "evidence": "鼻尖向右上偏移，口鼻下方仍展开，眼睛随头部朝右上。"
+    },
+    {
+      "label": "045",
+      "expected": "up-right",
+      "observed": "右侧口鼻突出，鼻尖仍高于水平右向帧，脸保持上仰；与前一帧姿态接近。",
+      "verdict": "pass",
+      "evidence": "右侧口鼻突出，鼻尖仍高于水平右向帧，脸保持上仰；与前一帧姿态接近。"
+    },
+    {
+      "label": "067.5",
+      "expected": "up-right",
+      "observed": "侧脸朝右，口鼻保持轻微上扬，向水平右向自然过渡。",
+      "verdict": "pass",
+      "evidence": "侧脸朝右，口鼻保持轻微上扬，向水平右向自然过渡。"
+    },
+    {
+      "label": "090",
+      "expected": "right",
+      "observed": "鼻尖在头部右缘突出，面部明确朝屏幕右侧，身体与电脑仍正面。",
+      "verdict": "pass",
+      "evidence": "鼻尖在头部右缘突出，面部明确朝屏幕右侧，身体与电脑仍正面。"
+    },
+    {
+      "label": "112.5",
+      "expected": "down-right",
+      "observed": "头部朝右，鼻尖下降，额头占比增大，眼睛朝右下。",
+      "verdict": "pass",
+      "evidence": "头部朝右，鼻尖下降，额头占比增大，眼睛朝右下。"
+    },
+    {
+      "label": "135",
+      "expected": "down-right",
+      "observed": "右向鼻尖进一步靠近电脑上沿，额头更明显，头部带动右下注视。",
+      "verdict": "pass",
+      "evidence": "右向鼻尖进一步靠近电脑上沿，额头更明显，头部带动右下注视。"
+    },
+    {
+      "label": "157.5",
+      "expected": "down-right",
+      "observed": "低头明显，鼻尖靠近电脑，仍保留向右的口鼻偏移。",
+      "verdict": "pass",
+      "evidence": "低头明显，鼻尖靠近电脑，仍保留向右的口鼻偏移。"
+    },
+    {
+      "label": "180",
+      "expected": "down",
+      "observed": "额头和头顶明显展开，双眼与鼻尖下降至电脑上方，形成正面低头。",
+      "verdict": "pass",
+      "evidence": "额头和头顶明显展开，双眼与鼻尖下降至电脑上方，形成正面低头。"
+    },
+    {
+      "label": "202.5",
+      "expected": "down-left",
+      "observed": "低头明确，但鼻尖接近中线、向左分量较弱；3份独立盲评均认为横向分量有歧义，作为近垂直中间帧保留并记录提示。",
+      "verdict": "warning",
+      "evidence": "低头明确，但鼻尖接近中线、向左分量较弱；3份独立盲评均认为横向分量有歧义，作为近垂直中间帧保留并记录提示。"
+    },
+    {
+      "label": "225",
+      "expected": "down-left",
+      "observed": "鼻尖突出向左且靠近电脑，较大的额头表达低头左看。",
+      "verdict": "pass",
+      "evidence": "鼻尖突出向左且靠近电脑，较大的额头表达低头左看。"
+    },
+    {
+      "label": "247.5",
+      "expected": "down-left",
+      "observed": "侧脸向左明确，鼻尖略低但俯仰幅度较轻，和270水平左向较接近；整体左半圈顺序连续。",
+      "verdict": "warning",
+      "evidence": "侧脸向左明确，鼻尖略低但俯仰幅度较轻，和270水平左向较接近；整体左半圈顺序连续。"
+    },
+    {
+      "label": "270",
+      "expected": "left",
+      "observed": "鼻尖在头部左缘突出，眼睛和面部朝屏幕左侧，电脑未镜像。",
+      "verdict": "pass",
+      "evidence": "鼻尖在头部左缘突出，眼睛和面部朝屏幕左侧，电脑未镜像。"
+    },
+    {
+      "label": "292.5",
+      "expected": "up-left",
+      "observed": "头朝左，鼻尖较水平左向上抬，口鼻下方展开，开始仰头。",
+      "verdict": "pass",
+      "evidence": "头朝左，鼻尖较水平左向上抬，口鼻下方展开，开始仰头。"
+    },
+    {
+      "label": "315",
+      "expected": "up-left",
+      "observed": "左向侧脸继续上仰，鼻尖和眼睛上移，浅色口鼻下方更明显。",
+      "verdict": "pass",
+      "evidence": "左向侧脸继续上仰，鼻尖和眼睛上移，浅色口鼻下方更明显。"
+    },
+    {
+      "label": "337.5",
+      "expected": "up-left",
+      "observed": "鼻尖朝左上明显上抬，较小头顶与展开下颌形成仰头，衔接000同一上仰家族。",
+      "verdict": "pass",
+      "evidence": "鼻尖朝左上明显上抬，较小头顶与展开下颌形成仰头，衔接000同一上仰家族。"
+    }
+  ]
+}
